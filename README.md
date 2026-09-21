@@ -27,6 +27,8 @@ This end-to-end data analytics project explores customer shopping patterns, purc
 - **Visualizations:** Revenue breakdown by age group and product category, subscription status distribution, seasonal revenue trends, and gender distribution.
 (Preview image of the dashboard)
 
+<img width="1372" height="749" alt="image" src="https://github.com/user-attachments/assets/507402ee-91e1-4bc4-8a59-a5e1b8a481ba" />
+
 ## Key Results & Insights
 - **Top-Performing Categories:** Clothing and Accessories generate the highest overall revenue compared to Footwear and Outerwear.
 - **Subscription Engagement:** Only  of total customers are subscribed, indicating a significant growth opportunity for targeted loyalty programs.
